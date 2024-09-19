@@ -87,8 +87,8 @@ button:hover {
     }
 }
 .slyder{
-    width:75%;
+    width:90%;
     height:auto;
-    background:red;
-    Margin: 0.5% 12.5% 0.5% 12.5% ;
+    background:rgb(122, 183, 240);
+    Margin: 0.5% 5% 0.5% 5% ;
 }
