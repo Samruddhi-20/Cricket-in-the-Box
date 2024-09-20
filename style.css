@@ -92,3 +92,8 @@ button:hover {
     background:rgb(122, 183, 240);
     Margin: 0.5% 5% 0.5% 5% ;
 }
+.card{
+    margin-top: 10px;
+    margin-left: 1.3em;
+    float: left;
+}
